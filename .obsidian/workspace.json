@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Plantilla.md",
+                "file": "PicoCTF/05- First Grep.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Plantilla"
+              "title": "05- First Grep"
             }
           }
         ]
@@ -168,11 +168,20 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "62a036150e92b6dc",
+  "active": "5f6fad143cf37275",
   "lastOpenFiles": [
+    "PicoCTF/02- 2Warm.md",
+    "PicoCTF/01- Lets Warm Up.md",
     "README.md",
+    "PicoCTF/10 - Nice netcat....md",
+    "PicoCTF/09- Glitch Cat.md",
+    "PicoCTF/08- Plumbing.md",
+    "PicoCTF/07- What's a net cat.md",
+    "PicoCTF/06- Obedient Cat.md",
+    "PicoCTF/05- First Grep.md",
+    "PicoCTF/04- Bases.md",
+    "PicoCTF/03- Warmed Up.md",
     "Bienvenido.md",
-    "PicoCTF/Plantilla.md",
     "PicoCTF"
   ]
 }
