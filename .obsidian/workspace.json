@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/05- First Grep.md",
+                "file": "PicoCTF/Tareas/Tarea 1/10 - Special.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05- First Grep"
+              "title": "10 - Special"
             }
           }
         ]
@@ -170,18 +170,35 @@
   },
   "active": "5f6fad143cf37275",
   "lastOpenFiles": [
-    "PicoCTF/02- 2Warm.md",
-    "PicoCTF/01- Lets Warm Up.md",
-    "README.md",
-    "PicoCTF/10 - Nice netcat....md",
-    "PicoCTF/09- Glitch Cat.md",
-    "PicoCTF/08- Plumbing.md",
-    "PicoCTF/07- What's a net cat.md",
-    "PicoCTF/06- Obedient Cat.md",
-    "PicoCTF/05- First Grep.md",
-    "PicoCTF/04- Bases.md",
-    "PicoCTF/03- Warmed Up.md",
-    "Bienvenido.md",
+    "PicoCTF/Tareas/Tarea 1/9 - Permissions.md",
+    "PicoCTF/Tareas/Tarea 1/8 - chrono.md",
+    "PicoCTF/Tareas/Tarea 1/7 - ASCII Numbers.md",
+    "PicoCTF/Tareas/Tarea 1/10 - Special.md",
+    "PicoCTF/Tareas/Tarea 1/6 - Time Machine.md",
+    "PicoCTF/Tareas/Tarea 1/5 - Commitment Issues.md",
+    "PicoCTF/Tareas/Tarea 1/4 - Collaborative Development.md",
+    "PicoCTF/Tareas/Tarea 1/3 - Blame Game.md",
+    "PicoCTF/Tareas/Tarea 1/2 - binhexa.md",
+    "PicoCTF/Tareas/Tarea 1/1 - Binary Search.md",
+    "PicoCTF/Practica/10 - Nice netcat....md",
+    "PicoCTF/Practica/09- Glitch Cat.md",
+    "PicoCTF/Practica/08- Plumbing.md",
+    "PicoCTF/Practica/07- What's a net cat.md",
+    "PicoCTF/Practica/30 - Serpentine.md",
+    "PicoCTF/Practica/29 - PW Crack 3.md",
+    "PicoCTF/Practica/28 - Super SSH.md",
+    "PicoCTF/Practica/21 - Codebook.md",
+    "PicoCTF/Practica/22 - Convertme.py.md",
+    "PicoCTF/Practica/23 - fixme1.py.md",
+    "PicoCTF/Practica/24 - fixme2.py.md",
+    "PicoCTF/Practica/25 - PW Crack 1.md",
+    "PicoCTF/Practica/26 - PW Crack 2.md",
+    "PicoCTF/Practica/27 - Runme.py.md",
+    "PicoCTF/Tareas/Tarea 1",
+    "PicoCTF/Tareas",
+    "PicoCTF/Practica",
+    "PicoCTF/27 - PW Crack 2.md",
+    "PicoCTF/Practica/11 - Big Zip.md",
     "PicoCTF"
   ]
 }

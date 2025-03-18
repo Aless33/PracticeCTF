@@ -9,8 +9,9 @@ villelaalessandroespino@gmail.com
 
 ### General Skills
 
-Lets Warm Up
-2Warm
+Lets Warm Up.
+
+2Warm.
 Warmed Up
 Bases
 First Grep
