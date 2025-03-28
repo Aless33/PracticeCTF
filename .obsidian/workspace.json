@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PicoCTF/WEB/11 - JaWT Scratchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "11 - JaWT Scratchpad"
             }
           }
         ],
@@ -185,8 +185,12 @@
   },
   "active": "e00bde32769d06ed",
   "lastOpenFiles": [
+    "PicoCTF/WEB/12 - More SQLi.md",
+    "PicoCTF/WEB/11 - JaWT Scratchpad.md",
+    "PicoCTF/WEB/10 - Irish-Name-Repo 1.md",
     "PicoCTF/WEB/7 - GET aHEAD.md",
     "PicoCTF/WEB/8 - Cookies.md",
+    "README.md",
     "PicoCTF/WEB/9 - Scavenger Hunt.md",
     "PicoCTF/WEB/6 - Picobrowser.md",
     "PicoCTF/WEB/5 - Client-side-again.md",
@@ -200,7 +204,6 @@
     "PicoCTF/WEB/2- Inspector.md",
     "PicoCTF/WEB/3- Where are the robots.md",
     "PicoCTF/WEB/4 - logon.md",
-    "README.md",
     "Sin título.md",
     "PicoCTF/Tareas/Tarea 1/1 - Binary Search.md",
     "PicoCTF/Tareas/Tarea 1/2 - binhexa.md",
@@ -208,10 +211,7 @@
     "PicoCTF/Tareas/Tarea 1/6 - Time Machine.md",
     "PicoCTF/Tareas/Tarea 1/7 - ASCII Numbers.md",
     "PicoCTF/Tareas/Tarea 1/9 - Permissions.md",
-    "PicoCTF/Tareas/Tarea 1/10 - Special.md",
     "PicoCTF/WEB",
-    "PicoCTF/Sin título.md",
-    "PicoCTF/Tareas/Tarea 1/8 - chrono.md",
     "PicoCTF/Tareas/Tarea 1",
     "PicoCTF/Tareas",
     "PicoCTF/Practica",
