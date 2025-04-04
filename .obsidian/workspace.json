@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Forensic/5 - What Lies Whithin.md",
+                "file": "PicoCTF/WEB/16 - Trickster.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 - What Lies Whithin"
+              "title": "16 - Trickster"
             }
           }
         ]
@@ -170,14 +170,16 @@
   },
   "active": "5f6fad143cf37275",
   "lastOpenFiles": [
+    "PicoCTF/WEB/15 - SOAP.md",
+    "PicoCTF/WEB/16 - Trickster.md",
     "PicoCTF/WEB/12 - More SQLi.md",
+    "PicoCTF/WEB/13 - MatchTheRegex.md",
+    "PicoCTF/WEB/14 - Most Cookies.md",
     "PicoCTF/Forensic/5 - What Lies Whithin.md",
     "PicoCTF/Forensic/4 - So Meta.md",
     "PicoCTF/Forensic/3 - Shark on wire 1.md",
     "PicoCTF/Forensic/2 - Extensions.md",
     "PicoCTF/Forensic/1 - Glory of the Garden.md",
-    "PicoCTF/WEB/14 -.md",
-    "PicoCTF/WEB/13 - MatchTheRegex.md",
     "PicoCTF/WEB/2- Inspector.md",
     "PicoCTF/Forensic",
     "PicoCTF/Sin título.md",
@@ -195,8 +197,6 @@
     "PicoCTF/Practica/25 - PW Crack 1.md",
     "PicoCTF/Practica/28 - Super SSH.md",
     "PicoCTF/Practica/29 - PW Crack 3.md",
-    "PicoCTF/Practica/30 - Serpentine.md",
-    "PicoCTF/WEB/1 - dont-use-client-side.md",
     "PicoCTF/WEB",
     "PicoCTF/Tareas/Tarea 1",
     "PicoCTF/Tareas",
