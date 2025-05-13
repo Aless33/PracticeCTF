@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "PicoCTF/Tareas/Tarea 3/10 - S3go.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "10 - S3go"
             }
           }
         ]
@@ -61,7 +61,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Buscar"
+              "title": "Search"
             }
           },
           {
@@ -168,8 +168,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5ad55efaf4ca8bdb",
+  "active": "62a036150e92b6dc",
   "lastOpenFiles": [
+    "PicoCTF/Tareas/Tarea 3/9 - Redaction gone wrong.md",
+    "PicoCTF/Tareas/Tarea 3/8 - hideme.md",
+    "PicoCTF/Tareas/Tarea 3/7 - flag are stepic.md",
+    "PicoCTF/Tareas/Tarea 3/6 - Secret of the Polyglot.md",
+    "PicoCTF/Tareas/Tarea 3/5 - Scan Surprise.md",
+    "PicoCTF/Tareas/Tarea 3/4 - Red.md",
+    "PicoCTF/Tareas/Tarea 3/3 - Ph4nt0m 1ntrud3r.md",
+    "PicoCTF/Tareas/Tarea 3/2 - information.md",
+    "PicoCTF/Tareas/Tarea 3/1 - CanYouSee.md",
+    "PicoCTF/Tareas/Tarea 3/10 - S3go.md",
+    "PicoCTF/Forensic/9 - shark on wire 2.md",
+    "PicoCTF/Forensic/11 - MacroHard WeakEdge.md",
+    "PicoCTF/Practica/30 - Serpentine.md",
+    "PicoCTF/Practica/29 - PW Crack 3.md",
+    "PicoCTF/Practica/01- Lets Warm Up.md",
+    "README.md",
+    "PicoCTF/Tareas/Tarea 3",
+    "PicoCTF/Tareas/Untitled.md",
     "PicoCTF/Practica/08- Plumbing.md",
     "PicoCTF/Forensic/21 - Sleuthkit Intro.md",
     "PicoCTF/Forensic/20 - Sleuthkit Apprentice.md",
@@ -179,23 +197,6 @@
     "PicoCTF/Forensic/16 - Disk, disk, sleuth!.md",
     "PicoCTF/Forensic/14 - WebNet0.md",
     "PicoCTF/Forensic/13 - tunn3l v1s10n.md",
-    "PicoCTF/Forensic/15 - WebNet1.md",
-    "PicoCTF/Forensic/12 - Matryoshka doll ctf.md",
-    "PicoCTF/Forensic/11 - MacroHard WeakEdge.md",
-    "PicoCTF/Forensic/8 - m00nwalk.md",
-    "PicoCTF/Forensic/9 - shark on wire 2.md",
-    "PicoCTF/Examenes/Examen1/General Skills/Specialer.md",
-    "PicoCTF/Examenes/Examen1/General Skills/SansAlpha.md",
-    "PicoCTF/Examenes/Examen1/General Skills/flag_shop.md",
-    "PicoCTF/Examenes/Examen1/WEB/7 - Java Code Analysis.md",
-    "PicoCTF/Examenes/Examen1/General Skills/dont-you-love-banners.md",
-    "PicoCTF/Examenes/Examen1/General Skills/Rust fixme 3.md",
-    "PicoCTF/Examenes/Examen1/General Skills/Rust fixme 2.md",
-    "PicoCTF/Examenes/Examen1/General Skills/Rust fixme 1.md",
-    "PicoCTF/Forensic/7 - Like1000.md",
-    "PicoCTF/Practica/16 - strings it.md",
-    "PicoCTF/Practica/13 - Magikarp Ground Mission.md",
-    "PicoCTF/Practica/12 - First Find.md",
     "PicoCTF/Examenes/Examen1/General Skills",
     "PicoCTF/Examenes/Examen1/Parte1-GS",
     "PicoCTF/Examenes/Examen1/ExamWeb.zip",
@@ -204,7 +205,6 @@
     "PicoCTF/Examenes/Examen1",
     "PicoCTF/Examenes",
     "PicoCTF/Tareas/Tarea 2",
-    "PicoCTF/Forensic",
-    "PicoCTF/WEB"
+    "PicoCTF/Forensic"
   ]
 }
