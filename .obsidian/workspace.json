@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "PicoCTF/Crypto/8 - Interencdec.md",
+                "file": "PicoCTF/Crypto/9 -RSA-POP-QUIZ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8 - Interencdec"
+              "title": "9 -RSA-POP-QUIZ"
             }
           }
         ]
@@ -170,9 +170,10 @@
   },
   "active": "5ad55efaf4ca8bdb",
   "lastOpenFiles": [
+    "PicoCTF/Crypto/8 - Interencdec.md",
+    "PicoCTF/Crypto/9 -RSA-POP-QUIZ.md",
     "PicoCTF/Crypto/7 - Waves over lambda.md",
     "PicoCTF/Crypto/6 - Tapping.md",
-    "PicoCTF/Crypto/8 - Interencdec.md",
     "PicoCTF/Crypto/5 - La cifra de.md",
     "PicoCTF/Crypto/3 - Caesar.md",
     "PicoCTF/Forensic/19 - operation orchid.md",
@@ -196,7 +197,6 @@
     "PicoCTF/Tareas/Tarea 3/1 - CanYouSee.md",
     "PicoCTF/Forensic/9 - shark on wire 2.md",
     "PicoCTF/Forensic/11 - MacroHard WeakEdge.md",
-    "PicoCTF/Practica/30 - Serpentine.md",
     "PicoCTF/Tareas/Tarea 3",
     "PicoCTF/Examenes/Examen1/General Skills",
     "PicoCTF/Examenes/Examen1/Parte1-GS",
